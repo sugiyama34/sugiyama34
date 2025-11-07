@@ -2,8 +2,8 @@
 
 # Welcome to Satoshi Sugiyama aka AIcia Solid GitHub 🎉
 
-I'm Sr. Data Scientist and Research Scientist in Atrae, Inc.
+I'm a senior Data Scientist and Research Scientist in Atrae, Inc.
 
-And a VTuber AIcia Solid, explaining Stats and AI! → https://www.youtube.com/@AIcia_Solid
+And a VTuber AIcia Solid, explaining from statistics to AI! → https://www.youtube.com/@AIcia_Solid
 
-Feel free to see https://sugiyama34.github.io/
+Feel free to see detailed profile! → https://sugiyama34.github.io/ 🥳
