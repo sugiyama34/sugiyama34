@@ -2,7 +2,7 @@
 
 # Welcome to Satoshi Sugiyama aka AIcia Solid GitHub 🎉
 
-## I'm a senior Data Scientist and Research Scientist 🤓
+## I'm a senior Data Scientist, Research Scientist, and VTuber 🌸
 
 I'm a senior **Data Scientist** and **Research Scientist** in Atrae, Inc.
 
